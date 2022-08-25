@@ -5541,3 +5541,47 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.08.25-15.40.21:141][930]LogContentValidation: Display: Validating Blueprint /Game/Luz.Luz
 [2022.08.25-15.40.21:141][930]LogContentValidation: Display: Validating SoundCue /Game/Light_Flicker_Cue.Light_Flicker_Cue
 [2022.08.25-15.40.21:141][930]LogContentValidation: Display: Validating SoundWave /Game/Light_Flicker.Light_Flicker
+[2022.08.25-15.41.00:718][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Po2" FILE="../../../../../../Users/20010495/Documents/GitHub/PO1_Unreal/BanheiroTerror/Content/Po2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.25-15.41.00:733][510]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2022.08.25-15.41.00:756][510]LogSavePackage: Moving '../../../../../../Users/20010495/Documents/GitHub/PO1_Unreal/BanheiroTerror/Saved/Po287EEB3634FD3A9847D13D8B83FC38674.tmp' to '../../../../../../Users/20010495/Documents/GitHub/PO1_Unreal/BanheiroTerror/Content/Po2.umap'
+[2022.08.25-15.41.00:760][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Po2_BuiltData" FILE="../../../../../../Users/20010495/Documents/GitHub/PO1_Unreal/BanheiroTerror/Content/Po2_BuiltData.uasset" SILENT=true
+[2022.08.25-15.41.00:840][510]LogSavePackage: Moving '../../../../../../Users/20010495/Documents/GitHub/PO1_Unreal/BanheiroTerror/Saved/Po2_BuiltData9C2898AD40029A84D3F58A8E707E066C.tmp' to '../../../../../../Users/20010495/Documents/GitHub/PO1_Unreal/BanheiroTerror/Content/Po2_BuiltData.uasset'
+[2022.08.25-15.41.00:851][510]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.25-15.41.00:851][510]LogContentValidation: Display: Validating World /Game/Po2.Po2
+[2022.08.25-15.41.00:851][510]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Po2_BuiltData.Po2_BuiltData
+[2022.08.25-15.41.05:031][753]LogEditorViewport: Clicking on Actor (LMB): Blueprint_WallSconce_C (Blueprint_WallSconce3)
+[2022.08.25-15.41.05:793][839]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Po2" FILE="../../../../../../Users/20010495/Documents/GitHub/PO1_Unreal/BanheiroTerror/Content/Po2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.25-15.41.05:807][839]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.08.25-15.41.05:828][839]LogSavePackage: Moving '../../../../../../Users/20010495/Documents/GitHub/PO1_Unreal/BanheiroTerror/Saved/Po2C4C4E5054ECB4EBAEC040BB6392D1185.tmp' to '../../../../../../Users/20010495/Documents/GitHub/PO1_Unreal/BanheiroTerror/Content/Po2.umap'
+[2022.08.25-15.41.05:832][839]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Po2_BuiltData" FILE="../../../../../../Users/20010495/Documents/GitHub/PO1_Unreal/BanheiroTerror/Content/Po2_BuiltData.uasset" SILENT=true
+[2022.08.25-15.41.05:911][839]LogSavePackage: Moving '../../../../../../Users/20010495/Documents/GitHub/PO1_Unreal/BanheiroTerror/Saved/Po2_BuiltData71D518BF4C1B3508C10253B3952C4BA8.tmp' to '../../../../../../Users/20010495/Documents/GitHub/PO1_Unreal/BanheiroTerror/Content/Po2_BuiltData.uasset'
+[2022.08.25-15.41.05:924][839]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.25-15.41.05:924][839]LogContentValidation: Display: Validating World /Game/Po2.Po2
+[2022.08.25-15.41.05:924][839]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Po2_BuiltData.Po2_BuiltData
+[2022.08.25-15.41.09:742][144]LogEditorViewport: Clicking on Actor (LMB): Luz_C (Luz2)
+[2022.08.25-15.41.11:187][304]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Po2" FILE="../../../../../../Users/20010495/Documents/GitHub/PO1_Unreal/BanheiroTerror/Content/Po2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.25-15.41.11:201][304]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.08.25-15.41.11:223][304]LogSavePackage: Moving '../../../../../../Users/20010495/Documents/GitHub/PO1_Unreal/BanheiroTerror/Saved/Po24371FE0C4A1A17CDB4F0579994CF449F.tmp' to '../../../../../../Users/20010495/Documents/GitHub/PO1_Unreal/BanheiroTerror/Content/Po2.umap'
+[2022.08.25-15.41.11:226][304]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Po2_BuiltData" FILE="../../../../../../Users/20010495/Documents/GitHub/PO1_Unreal/BanheiroTerror/Content/Po2_BuiltData.uasset" SILENT=true
+[2022.08.25-15.41.11:306][304]LogSavePackage: Moving '../../../../../../Users/20010495/Documents/GitHub/PO1_Unreal/BanheiroTerror/Saved/Po2_BuiltData0C7B9FA84456A155FF3C069D64785ED7.tmp' to '../../../../../../Users/20010495/Documents/GitHub/PO1_Unreal/BanheiroTerror/Content/Po2_BuiltData.uasset'
+[2022.08.25-15.41.11:320][304]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.25-15.41.11:320][304]LogContentValidation: Display: Validating World /Game/Po2.Po2
+[2022.08.25-15.41.11:320][304]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Po2_BuiltData.Po2_BuiltData
+[2022.08.25-15.41.12:664][452]LogEditorViewport: Clicking on Actor (LMB): Luz_C (Luz)
+[2022.08.25-15.41.13:174][505]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Po2" FILE="../../../../../../Users/20010495/Documents/GitHub/PO1_Unreal/BanheiroTerror/Content/Po2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.25-15.41.13:187][505]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.08.25-15.41.13:209][505]LogSavePackage: Moving '../../../../../../Users/20010495/Documents/GitHub/PO1_Unreal/BanheiroTerror/Saved/Po2D55975CE4D1AFD709C9EBC9BE0B8D2C6.tmp' to '../../../../../../Users/20010495/Documents/GitHub/PO1_Unreal/BanheiroTerror/Content/Po2.umap'
+[2022.08.25-15.41.13:212][505]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Po2_BuiltData" FILE="../../../../../../Users/20010495/Documents/GitHub/PO1_Unreal/BanheiroTerror/Content/Po2_BuiltData.uasset" SILENT=true
+[2022.08.25-15.41.13:291][505]LogSavePackage: Moving '../../../../../../Users/20010495/Documents/GitHub/PO1_Unreal/BanheiroTerror/Saved/Po2_BuiltData4A3D049E403AF1E09C4CA39B5221EFD1.tmp' to '../../../../../../Users/20010495/Documents/GitHub/PO1_Unreal/BanheiroTerror/Content/Po2_BuiltData.uasset'
+[2022.08.25-15.41.13:305][505]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.25-15.41.13:305][505]LogContentValidation: Display: Validating World /Game/Po2.Po2
+[2022.08.25-15.41.13:305][505]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Po2_BuiltData.Po2_BuiltData
+[2022.08.25-15.41.17:935][890]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.08.25-15.41.19:620][ 79]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Po2" FILE="../../../../../../Users/20010495/Documents/GitHub/PO1_Unreal/BanheiroTerror/Content/Po2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.25-15.41.19:633][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.08.25-15.41.19:653][ 79]LogSavePackage: Moving '../../../../../../Users/20010495/Documents/GitHub/PO1_Unreal/BanheiroTerror/Saved/Po2BFB25A754D9080A2891318810ECE6BA7.tmp' to '../../../../../../Users/20010495/Documents/GitHub/PO1_Unreal/BanheiroTerror/Content/Po2.umap'
+[2022.08.25-15.41.19:657][ 79]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Po2_BuiltData" FILE="../../../../../../Users/20010495/Documents/GitHub/PO1_Unreal/BanheiroTerror/Content/Po2_BuiltData.uasset" SILENT=true
+[2022.08.25-15.41.19:736][ 79]LogSavePackage: Moving '../../../../../../Users/20010495/Documents/GitHub/PO1_Unreal/BanheiroTerror/Saved/Po2_BuiltData689879474CB887E918E82D9085577F91.tmp' to '../../../../../../Users/20010495/Documents/GitHub/PO1_Unreal/BanheiroTerror/Content/Po2_BuiltData.uasset'
+[2022.08.25-15.41.19:752][ 79]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.25-15.41.19:752][ 79]LogContentValidation: Display: Validating World /Game/Po2.Po2
+[2022.08.25-15.41.19:752][ 79]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Po2_BuiltData.Po2_BuiltData
