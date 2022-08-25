@@ -5248,3 +5248,296 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.08.25-15.15.48:460][654]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Po2_BuiltData.Po2_BuiltData
 [2022.08.25-15.15.50:843][884]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
 [2022.08.25-15.15.53:178][116]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.08.25-15.21.40:014][196]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.08.25-15.21.51:222][196]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.08.25-15.21.51:267][196]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.08.25-15.21.51:274][196]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.08.25-15.21.54:540][554]LogContentBrowser: Attempting asset rename: NewBlueprint -> Luz
+[2022.08.25-15.21.54:577][554]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.08.25-15.21.56:359][761]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Luz.Luz
+[2022.08.25-15.21.56:706][761]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2022.08.25-15.23.32:520][393]LogRenderer: Reallocating scene render targets to support 1044x720 Format 10 NumSamples 1 (Frame:3634).
+[2022.08.25-15.24.28:044][773]LogEditorTransaction: Undo Edit Inner Cone Angle
+[2022.08.25-15.24.56:944][907]LogSlate: Window 'Color Picker' being destroyed
+[2022.08.25-15.25.17:334][470]BlueprintLog: New page: Compile Luz
+[2022.08.25-15.25.17:463][470]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2022.08.25-15.25.19:004][588]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Luz" FILE="../../../../../../Users/20010495/Documents/GitHub/PO1_Unreal/BanheiroTerror/Content/Luz.uasset" SILENT=true
+[2022.08.25-15.25.19:100][588]LogSavePackage: Moving '../../../../../../Users/20010495/Documents/GitHub/PO1_Unreal/BanheiroTerror/Saved/LuzC7C5FF5E48FFFB53D3F7BEB37A819EE2.tmp' to '../../../../../../Users/20010495/Documents/GitHub/PO1_Unreal/BanheiroTerror/Content/Luz.uasset'
+[2022.08.25-15.25.19:113][588]AssetCheck: New page: Asset Save: Luz
+[2022.08.25-15.25.19:113][588]LogContentValidation: Display: Validating Blueprint /Game/Luz.Luz
+[2022.08.25-15.25.21:947][805]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2022.08.25-15.25.26:205][233]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2022.08.25-15.25.36:048][ 87]LogEditorViewport: Clicking on Actor (LMB): Blueprint_WallSconce_C (Blueprint_WallSconce)
+[2022.08.25-15.25.37:998][286]Cmd: DELETE
+[2022.08.25-15.25.37:998][286]Cmd: ACTOR DELETE
+[2022.08.25-15.25.38:000][286]LogEditorActor: Deleted Actor: Blueprint_WallSconce_C
+[2022.08.25-15.25.38:021][286]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2022.08.25-15.25.38:022][286]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2022.08.25-15.25.38:937][387]LogEditorViewport: Clicking on Actor (LMB): Luz_C (Luz)
+[2022.08.25-15.25.56:849][320]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x300)
+[2022.08.25-15.26.00:992][723]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x300)
+[2022.08.25-15.26.01:447][764]LogEditorViewport: Clicking on Actor (LMB): Luz_C (Luz)
+[2022.08.25-15.26.10:006][467]BlueprintLog: New page: Compile Luz
+[2022.08.25-15.26.10:046][467]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2022.08.25-15.26.14:206][867]LogEditorViewport: Clicking on Actor (LMB): Luz_C (Luz)
+[2022.08.25-15.26.48:502][509]Cmd: EDIT COPY
+[2022.08.25-15.26.48:775][537]Cmd: EDIT PASTE
+[2022.08.25-15.26.54:483][101]LogEditorViewport: Clicking on Actor (LMB): Blueprint_WallSconce_C (Blueprint_WallSconce2)
+[2022.08.25-15.26.59:725][692]Cmd: DELETE
+[2022.08.25-15.26.59:725][692]Cmd: ACTOR DELETE
+[2022.08.25-15.26.59:727][692]LogEditorActor: Deleted Actor: Blueprint_WallSconce_C
+[2022.08.25-15.26.59:748][692]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2022.08.25-15.26.59:750][692]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2022.08.25-15.27.01:578][892]LogEditorViewport: Clicking on Actor (LMB): Luz_C (Luz2)
+[2022.08.25-15.27.09:078][674]LogSlate: Window 'Luz' being destroyed
+[2022.08.25-15.27.09:082][674]LogSlate: Window 'Luz' being destroyed
+[2022.08.25-15.27.09:084][674]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.08.25-15.27.09:084][674]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.25-15.27.13:893][230]Cmd: DELETE
+[2022.08.25-15.27.13:893][230]Cmd: ACTOR DELETE
+[2022.08.25-15.27.13:895][230]LogEditorActor: Deleted Actor: Luz_C
+[2022.08.25-15.27.13:911][230]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.08.25-15.27.13:914][230]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2022.08.25-15.27.17:214][581]LogEditorViewport: Clicking on Actor (LMB): Luz_C (Luz)
+[2022.08.25-15.27.21:570][ 40]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Luz.Luz
+[2022.08.25-15.27.21:978][ 40]LogSlate: Took 0.000257 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.08.25-15.27.53:816][874]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2022.08.25-15.27.53:818][874]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Po2" FILE="../../../../../../Users/20010495/Documents/GitHub/PO1_Unreal/BanheiroTerror/Saved/Autosaves/Game/Po2_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.08.25-15.27.53:837][874]LogSavePackage: Moving '../../../../../../Users/20010495/Documents/GitHub/PO1_Unreal/BanheiroTerror/Saved/Po2_Auto6EBDE90D8477722DF5F63B58738101662.tmp' to '../../../../../../Users/20010495/Documents/GitHub/PO1_Unreal/BanheiroTerror/Saved/Autosaves/Game/Po2_Auto6.umap'
+[2022.08.25-15.27.53:838][874]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Po2' took 0.040
+[2022.08.25-15.27.53:838][874]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.040
+[2022.08.25-15.27.53:839][874]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Luz] ([2] browsable assets)...
+[2022.08.25-15.27.53:874][874]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Luz.Luz]
+[2022.08.25-15.27.53:874][874]OBJ SavePackage: Finished generating thumbnails for package [/Game/Luz]
+[2022.08.25-15.27.53:874][874]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Luz" FILE="../../../../../../Users/20010495/Documents/GitHub/PO1_Unreal/BanheiroTerror/Saved/Autosaves/Game/Luz_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2022.08.25-15.27.53:882][874]LogSavePackage: Moving '../../../../../../Users/20010495/Documents/GitHub/PO1_Unreal/BanheiroTerror/Saved/Luz_Auto601867E024D72AD6F01FC968FD929CBA6.tmp' to '../../../../../../Users/20010495/Documents/GitHub/PO1_Unreal/BanheiroTerror/Saved/Autosaves/Game/Luz_Auto6.uasset'
+[2022.08.25-15.27.53:882][874]LogFileHelpers: Auto-saving content packages took 0.045
+[2022.08.25-15.29.04:633][854]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\20010495\Downloads\Light Flicker.wav)
+[2022.08.25-15.34.48:432][508]BlueprintLog: New page: Compile Luz
+[2022.08.25-15.34.48:470][508]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2022.08.25-15.34.49:499][625]LogSlate: Window 'Luz' being destroyed
+[2022.08.25-15.34.49:517][625]LogSlate: Window 'Luz' being destroyed
+[2022.08.25-15.34.49:518][625]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.08.25-15.34.49:518][625]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.25-15.34.58:286][477]LogContentBrowser: Deferred new asset file creation: Light_Flicker_Cue
+[2022.08.25-15.34.58:309][477]LogContentBrowser: Creating deferred item: Light_Flicker_Cue
+[2022.08.25-15.35.01:113][728]LogContentBrowser: Attempting asset rename: Light_Flicker_Cue -> Light_Flicker_Cue
+[2022.08.25-15.35.01:127][728]LogContentBrowser: End creating deferred item Light_Flicker_Cue
+[2022.08.25-15.35.08:067][901]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Light_Flicker...
+[2022.08.25-15.35.08:067][901]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Light_Flicker.Light_Flicker will be modified from 40 to 40.
+[2022.08.25-15.35.08:120][901]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 69952 while cooking SoundWave /Game/Light_Flicker.Light_Flicker.
+[2022.08.25-15.35.09:228][992]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/Light_Flicker_Cue.Light_Flicker_Cue
+[2022.08.25-15.36.05:926][444]LogSlate: Window 'Light_Flicker_Cue' being destroyed
+[2022.08.25-15.36.05:942][444]LogSlate: Window 'Light_Flicker_Cue' being destroyed
+[2022.08.25-15.36.07:652][642]LogTemp: Repeating last play command: Selected Viewport
+[2022.08.25-15.36.07:656][642]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.25-15.36.07:656][642]PIE: New page: PIE session: Po2 (Aug 25, 2022, 9:36:07 AM)
+[2022.08.25-15.36.07:696][642]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Po2
+[2022.08.25-15.36.07:701][642]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004593s)
+[2022.08.25-15.36.07:701][642]LogAIModule: Creating AISystem for world Po2
+[2022.08.25-15.36.07:702][642]LogPlayLevel: PIE: World Init took: (0.000935s)
+[2022.08.25-15.36.07:702][642]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Po2.Po2 to /Game/UEDPIE_0_Po2.Po2 (0.005697s)
+[2022.08.25-15.36.07:720][642]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2022.08.25-15.36.07:724][642]LogAudio: Display: Creating Audio Device:                 Id: 37, Scope: Unique, Realtime: True
+[2022.08.25-15.36.07:725][642]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.25-15.36.07:725][642]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.25-15.36.07:725][642]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.25-15.36.07:725][642]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.25-15.36.07:725][642]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.25-15.36.07:725][642]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.25-15.36.07:725][642]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.25-15.36.07:725][642]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.25-15.36.07:725][642]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.25-15.36.07:725][642]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.25-15.36.07:725][642]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.25-15.36.07:725][642]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.25-15.36.07:728][642]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.25-15.36.07:728][642]LogAudioMixer: Display: 1: FrontRight
+[2022.08.25-15.36.07:737][642]LogAudioMixer: Display: Using Audio Device Headphones (3- High Definition Audio Device)
+[2022.08.25-15.36.07:737][642]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.25-15.36.07:737][642]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.25-15.36.07:737][642]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.25-15.36.07:737][642]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.25-15.36.07:737][642]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.25-15.36.07:737][642]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.25-15.36.07:738][642]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.25-15.36.07:738][642]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.25-15.36.07:738][642]LogInit: FAudioDevice initialized.
+[2022.08.25-15.36.07:738][642]LogAudio: Display: Audio Device (ID: 37) registered with world 'Po2'.
+[2022.08.25-15.36.07:749][642]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.08.25-15.36.07:751][642]LogWorld: Bringing World /Game/UEDPIE_0_Po2.Po2 up for play (max tick rate 0) at 2022.08.25-12.36.07
+[2022.08.25-15.36.07:752][642]LogWorld: Bringing up level for play took: 0.001955
+[2022.08.25-15.36.07:752][642]LogOnline: OSS: Creating online subsystem instance for: :Context_50
+[2022.08.25-15.36.07:755][642]PIE: Server logged in
+[2022.08.25-15.36.07:755][642]PIE: Play in editor total start time 0.099 seconds.
+[2022.08.25-15.36.25:317][739]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.25-15.36.25:317][739]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Po2
+[2022.08.25-15.36.25:317][739]LogWorld: UWorld::CleanupWorld for Po2, bSessionEnded=true, bCleanupResources=true
+[2022.08.25-15.36.25:317][739]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.25-15.36.25:323][739]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.25-15.36.25:330][739]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.25-15.36.25:344][739]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.25-15.36.25:344][739]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.25-15.36.25:345][739]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.25-15.36.25:347][739]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.25-15.36.25:350][739]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2022.08.25-15.36.25:400][741]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2022.08.25-15.36.31:448][387]LogEditorViewport: Clicking on Actor (LMB): Luz_C (Luz)
+[2022.08.25-15.36.32:019][442]LogEditorViewport: Clicking on Actor (LMB): Luz_C (Luz)
+[2022.08.25-15.36.36:608][951]Cmd: EDIT COPY
+[2022.08.25-15.36.36:866][974]Cmd: EDIT PASTE
+[2022.08.25-15.37.26:115][358]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Luz.Luz
+[2022.08.25-15.37.38:648][432]BlueprintLog: New page: Compile Luz
+[2022.08.25-15.37.38:695][432]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2022.08.25-15.37.39:423][490]LogSlate: Window 'Luz' being destroyed
+[2022.08.25-15.37.39:442][490]LogSlate: Window 'Luz' being destroyed
+[2022.08.25-15.37.39:444][490]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.08.25-15.37.39:444][490]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.25-15.37.53:726][102]Cmd: EDIT COPY
+[2022.08.25-15.37.53:994][121]Cmd: EDIT PASTE
+[2022.08.25-15.38.03:949][228]LogEditorViewport: Clicking on Actor (LMB): Blueprint_WallSconce_C (Blueprint_WallSconce5)
+[2022.08.25-15.38.04:828][325]Cmd: DELETE
+[2022.08.25-15.38.04:828][325]Cmd: ACTOR DELETE
+[2022.08.25-15.38.04:830][325]LogEditorActor: Deleted Actor: Blueprint_WallSconce_C
+[2022.08.25-15.38.04:855][325]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2022.08.25-15.38.04:861][325]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2022.08.25-15.38.09:632][811]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x301)
+[2022.08.25-15.38.10:448][876]LogEditorViewport: Clicking on Actor (LMB): Luz_C (Luz2)
+[2022.08.25-15.38.22:101][240]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x301)
+[2022.08.25-15.38.34:490][631]LogEditorViewport: Clicking on Actor (LMB): Luz_C (Luz2)
+[2022.08.25-15.38.53:609][736]LogEditorViewport: Clicking on Actor (LMB): Luz_C (Luz)
+[2022.08.25-15.38.54:989][895]Cmd: EDIT COPY
+[2022.08.25-15.38.55:273][929]Cmd: EDIT PASTE
+[2022.08.25-15.39.05:239][ 52]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x300)
+[2022.08.25-15.39.06:194][157]LogEditorViewport: Clicking on Actor (LMB): Luz_C (Luz)
+[2022.08.25-15.39.20:144][685]LogEditorViewport: Clicking on Actor (LMB): Blueprint_WallSconce_C (Blueprint_WallSconce4)
+[2022.08.25-15.39.21:241][802]Cmd: DELETE
+[2022.08.25-15.39.21:241][802]Cmd: ACTOR DELETE
+[2022.08.25-15.39.21:243][802]LogEditorActor: Deleted Actor: Blueprint_WallSconce_C
+[2022.08.25-15.39.21:259][802]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2022.08.25-15.39.21:268][802]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2022.08.25-15.39.22:549][955]LogEditorViewport: Clicking on Actor (LMB): Luz_C (Luz4)
+[2022.08.25-15.39.48:058][916]MapCheck: New page: Map Check
+[2022.08.25-15.39.48:072][916]LightingResults: New page: Lighting Build - Aug 25, 2022, 9:39:48 AM
+[2022.08.25-15.39.48:076][916]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.08.25-15.39.48:078][916]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.08.25-15.39.48:078][916]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.08.25-15.39.48:079][916]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.08.25-15.39.48:079][916]LogSwarmInterface: [TryOpenConnection] Local Process ID is 11528
+[2022.08.25-15.39.52:656][916]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2022.08.25-15.39.52:656][916]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.08.25-15.39.52:656][916]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.08.25-15.39.52:656][916]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.08.25-15.39.52:656][916]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.08.25-15.39.52:656][916]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.08.25-15.39.52:776][916]LogEditorBuildUtils: Build time 0:04
+[2022.08.25-15.39.52:782][916]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.08.25-15.39.52:782][916]LogShaderCompilers: Display: Total job queries 2256, among them cache hits 1278 (56.65%)
+[2022.08.25-15.39.52:782][916]LogShaderCompilers: Display: Tracking 978 distinct input hashes that result in 538 distinct outputs (55.01%)
+[2022.08.25-15.39.52:782][916]LogShaderCompilers: Display: RAM used: 3.27 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.40%
+[2022.08.25-15.39.52:782][916]LogShaderCompilers: Display: ================================================
+[2022.08.25-15.39.52:825][917]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.08.25-15.39.55:632][130]Job is a success!
+[2022.08.25-15.39.55:874][131]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.061s
+[2022.08.25-15.39.55:874][131]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.08.25-15.39.55:874][131]LogVolumetricLightmapImport:      BrickData (all levels) 0.1Mb
+[2022.08.25-15.39.55:874][131]LogVolumetricLightmapImport:      Bricks at depth
+[2022.08.25-15.39.55:874][131]LogVolumetricLightmapImport:          0: 3.4% covering 100.0% of volume
+[2022.08.25-15.39.55:874][131]LogVolumetricLightmapImport:          1: 6.9% covering 3.1% of volume
+[2022.08.25-15.39.55:874][131]LogVolumetricLightmapImport:          2: 89.7% covering 0.6% of volume
+[2022.08.25-15.39.55:874][131]LogVolumetricLightmapImport:      Bricks in each level
+[2022.08.25-15.39.55:874][131]LogVolumetricLightmapImport:          Po2 			 29 bricks 	 100.0% (Persistent Level)
+[2022.08.25-15.39.56:169][131]LogTexture: Display: Building textures: HQ_Lightmap1_1 (OODLE_AutoDXT, 1024X1024)
+[2022.08.25-15.39.56:169][131]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (OODLE_DXT1, 1024X1024)
+[2022.08.25-15.39.56:169][131]LogTexture: Display: Building textures: HQ_Lightmap1_2 (OODLE_AutoDXT, 512X512)
+[2022.08.25-15.39.56:169][131]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (OODLE_DXT1, 64X64)
+[2022.08.25-15.39.56:169][131]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (OODLE_DXT1, 512X512)
+[2022.08.25-15.39.56:169][131]LogTexture: Display: Building textures: HQ_Lightmap0_3 (OODLE_AutoDXT, 64X64)
+[2022.08.25-15.39.56:169][131]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.08.25-15.39.56:169][131]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.08.25-15.39.56:169][131]LogTexture: Display: Building textures: ShadowMapTexture2D_19 (G8, 32X32)
+[2022.08.25-15.39.56:169][131]LogTexture: Display: Building textures: ShadowMapTexture2D_18 (G8, 1024X512)
+[2022.08.25-15.39.56:169][131]LogStaticLightingSystem: Po2_BuiltData storing lightmap data for 66 meshes in 5 LightmapResourceClusters (13.2 Meshes per cluster).
+[2022.08.25-15.39.56:190][131]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2022.08.25-15.39.56:231][131]LogStaticLightingSystem: Illumination: 8.12 sec (136 ms encoding lightmaps, 95 ms encoding shadowmaps)
+[2022.08.25-15.39.56:231][131]LogStaticLightingSystem: Lightmap texture memory:  2.5 MB (2.5 MB streaming, 0.0 MB non-streaming), 6 textures
+[2022.08.25-15.39.56:231][131]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 2 textures
+[2022.08.25-15.39.56:664][131]DumpUnbuiltLightIteractions
+[2022.08.25-15.39.56:664][131]Lights with unbuilt interactions: 0
+[2022.08.25-15.39.56:664][131]
+[2022.08.25-15.39.56:664][131]Primitives with unbuilt interactions: 0
+[2022.08.25-15.39.56:721][131]LogTexture: Display: Building textures: NewReflectionComponentTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2022.08.25-15.39.56:745][132]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.08.25-15.39.56:745][132]MapCheck: New page: Po2 - Aug 25, 2022, 9:39:56 AM
+[2022.08.25-15.39.56:746][132]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.575ms to complete.
+[2022.08.25-15.40.03:096][832]LogTemp: Repeating last play command: Selected Viewport
+[2022.08.25-15.40.03:100][832]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.25-15.40.03:100][832]PIE: New page: PIE session: Po2 (Aug 25, 2022, 9:40:03 AM)
+[2022.08.25-15.40.03:128][832]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Po2
+[2022.08.25-15.40.03:133][832]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004605s)
+[2022.08.25-15.40.03:133][832]LogAIModule: Creating AISystem for world Po2
+[2022.08.25-15.40.03:134][832]LogPlayLevel: PIE: World Init took: (0.000856s)
+[2022.08.25-15.40.03:134][832]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Po2.Po2 to /Game/UEDPIE_0_Po2.Po2 (0.005644s)
+[2022.08.25-15.40.03:148][832]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2022.08.25-15.40.03:151][832]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2022.08.25-15.40.03:151][832]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.25-15.40.03:151][832]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.25-15.40.03:151][832]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.25-15.40.03:151][832]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.25-15.40.03:151][832]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.25-15.40.03:151][832]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.25-15.40.03:151][832]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.25-15.40.03:151][832]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.25-15.40.03:152][832]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.25-15.40.03:152][832]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.25-15.40.03:152][832]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.25-15.40.03:152][832]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.25-15.40.03:154][832]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.25-15.40.03:154][832]LogAudioMixer: Display: 1: FrontRight
+[2022.08.25-15.40.03:163][832]LogAudioMixer: Display: Using Audio Device Headphones (3- High Definition Audio Device)
+[2022.08.25-15.40.03:164][832]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.25-15.40.03:164][832]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.25-15.40.03:164][832]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.25-15.40.03:164][832]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.25-15.40.03:164][832]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.25-15.40.03:164][832]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.25-15.40.03:165][832]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.25-15.40.03:165][832]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.25-15.40.03:165][832]LogInit: FAudioDevice initialized.
+[2022.08.25-15.40.03:165][832]LogAudio: Display: Audio Device (ID: 38) registered with world 'Po2'.
+[2022.08.25-15.40.03:171][832]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.08.25-15.40.03:174][832]LogWorld: Bringing World /Game/UEDPIE_0_Po2.Po2 up for play (max tick rate 0) at 2022.08.25-12.40.03
+[2022.08.25-15.40.03:174][832]LogWorld: Bringing up level for play took: 0.001944
+[2022.08.25-15.40.03:174][832]LogOnline: OSS: Creating online subsystem instance for: :Context_52
+[2022.08.25-15.40.03:177][832]PIE: Server logged in
+[2022.08.25-15.40.03:177][832]PIE: Play in editor total start time 0.078 seconds.
+[2022.08.25-15.40.16:969][473]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.25-15.40.16:969][473]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Po2
+[2022.08.25-15.40.16:969][473]LogWorld: UWorld::CleanupWorld for Po2, bSessionEnded=true, bCleanupResources=true
+[2022.08.25-15.40.16:970][473]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.25-15.40.16:980][473]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.25-15.40.16:987][473]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.25-15.40.17:000][473]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.25-15.40.17:000][473]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.25-15.40.17:001][473]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.25-15.40.17:006][473]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2022.08.25-15.40.17:029][474]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2022.08.25-15.40.20:932][930]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2022.08.25-15.40.20:960][930]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Po2" FILE="../../../../../../Users/20010495/Documents/GitHub/PO1_Unreal/BanheiroTerror/Content/Po2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.25-15.40.20:974][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.08.25-15.40.20:994][930]LogSavePackage: Moving '../../../../../../Users/20010495/Documents/GitHub/PO1_Unreal/BanheiroTerror/Saved/Po29C4A9B144A7A818466D57A86B44BED59.tmp' to '../../../../../../Users/20010495/Documents/GitHub/PO1_Unreal/BanheiroTerror/Content/Po2.umap'
+[2022.08.25-15.40.20:996][930]LogFileHelpers: Saving map 'Po2' took 0.036
+[2022.08.25-15.40.20:996][930]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Po2_BuiltData" FILE="../../../../../../Users/20010495/Documents/GitHub/PO1_Unreal/BanheiroTerror/Content/Po2_BuiltData.uasset" SILENT=true
+[2022.08.25-15.40.21:075][930]LogSavePackage: Moving '../../../../../../Users/20010495/Documents/GitHub/PO1_Unreal/BanheiroTerror/Saved/Po2_BuiltData9BD3216C4934558C05A78089F04ECD16.tmp' to '../../../../../../Users/20010495/Documents/GitHub/PO1_Unreal/BanheiroTerror/Content/Po2_BuiltData.uasset'
+[2022.08.25-15.40.21:089][930]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Luz" FILE="../../../../../../Users/20010495/Documents/GitHub/PO1_Unreal/BanheiroTerror/Content/Luz.uasset" SILENT=true
+[2022.08.25-15.40.21:123][930]LogSavePackage: Moving '../../../../../../Users/20010495/Documents/GitHub/PO1_Unreal/BanheiroTerror/Saved/Luz5CBD09AB4D09D44A36A0C5B20D2D3337.tmp' to '../../../../../../Users/20010495/Documents/GitHub/PO1_Unreal/BanheiroTerror/Content/Luz.uasset'
+[2022.08.25-15.40.21:126][930]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Light_Flicker" FILE="../../../../../../Users/20010495/Documents/GitHub/PO1_Unreal/BanheiroTerror/Content/Light_Flicker.uasset" SILENT=true
+[2022.08.25-15.40.21:127][930]LogSavePackage: Moving '../../../../../../Users/20010495/Documents/GitHub/PO1_Unreal/BanheiroTerror/Saved/Light_Flicker96F648E54F8E70FB25C7F4812B888A1B.tmp' to '../../../../../../Users/20010495/Documents/GitHub/PO1_Unreal/BanheiroTerror/Content/Light_Flicker.uasset'
+[2022.08.25-15.40.21:128][930]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Light_Flicker_Cue" FILE="../../../../../../Users/20010495/Documents/GitHub/PO1_Unreal/BanheiroTerror/Content/Light_Flicker_Cue.uasset" SILENT=true
+[2022.08.25-15.40.21:129][930]LogSavePackage: Moving '../../../../../../Users/20010495/Documents/GitHub/PO1_Unreal/BanheiroTerror/Saved/Light_Flicker_CueFE27DAA54A179F100A569598B2B26BA9.tmp' to '../../../../../../Users/20010495/Documents/GitHub/PO1_Unreal/BanheiroTerror/Content/Light_Flicker_Cue.uasset'
+[2022.08.25-15.40.21:140][930]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.25-15.40.21:140][930]LogContentValidation: Display: Validating World /Game/Po2.Po2
+[2022.08.25-15.40.21:140][930]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Po2_BuiltData.Po2_BuiltData
+[2022.08.25-15.40.21:141][930]LogContentValidation: Display: Validating Blueprint /Game/Luz.Luz
+[2022.08.25-15.40.21:141][930]LogContentValidation: Display: Validating SoundCue /Game/Light_Flicker_Cue.Light_Flicker_Cue
+[2022.08.25-15.40.21:141][930]LogContentValidation: Display: Validating SoundWave /Game/Light_Flicker.Light_Flicker
